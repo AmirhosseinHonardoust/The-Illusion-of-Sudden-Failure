@@ -1,7 +1,7 @@
 # **The Illusion of Sudden Failure**
 
 <p align="center">
-
+ 
   <img src="https://img.shields.io/badge/Thesis-Sudden_Failure_Is_an_Illusion-5E35B1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Core_Idea-Failure_Is_a_Trajectory-37474F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Drift_%26_Instability-D84315?style=for-the-badge" />
