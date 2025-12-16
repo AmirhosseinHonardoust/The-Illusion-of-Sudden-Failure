@@ -12,7 +12,7 @@
 </p>
 
 ### *A Manifesto on Drift, Instability, and Why We Always Notice Too Late*
-        
+         
 ---
 
 ## Preamble: The Story We Tell Ourselves
